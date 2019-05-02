@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StockExchange</string>
+    <string-array name="company_name">
+        <item> CINGER GROUP  </item>
+        <item> PRAN GROUP &amp; P 500_2939.88  </item>
+        <item> WALTON GROUP </item>
+        <item> ACI GROUP </item>
+        <item> NAVANA GROUP  </item>
+        <item> BASHUNDHARA GROUP </item>
+        <item> BEXIMCO GROUP </item>
+        <item> SQUARE GROUP  </item>
+        <item> CITY GROUP </item>
+        <item> EMON GROUP </item>
+    </string-array>
+
+</resources>
